@@ -1,0 +1,17 @@
+<!doctype HTML>
+<HTML>
+
+  <head>
+      <<title>TaeHun Sung 2015050500</title>\
+      <head/>
+
+      <<body>
+        <<p>About time</p>
+        <img src = "images/About time.jpg" alt="About time"/>
+        <<p>Fight club</p>
+        <img src = "images/Fight club.jpg" alt="Fight club"/>
+        <<p>Wolves of wallstreet</p>
+        <img src = "images/Wolves of wallstreet.jpg" alt="Wolves of wallstreet"/>
+
+        <<p>These are my favorite movies</p>
+      </body>

@@ -1,0 +1,14 @@
+!doctype HTML>
+<HTML>
+
+  <head>
+      <<title>TaeHun Sung 2015050500</title>\
+      <head/>
+
+    <<body>
+      <<h2>Coding video "Daily Coding"</h2>
+
+      <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=1ttLx9MbrCI">
+</iframe>
+    </body>
